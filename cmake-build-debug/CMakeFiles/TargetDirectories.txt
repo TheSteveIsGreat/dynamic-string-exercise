@@ -1,3 +1,0 @@
-C:/Users/mopar/Documents/CS2420/Module 1/dynamic-string-TheSteveIsGreat/cmake-build-debug/CMakeFiles/dynamic_strings.dir
-C:/Users/mopar/Documents/CS2420/Module 1/dynamic-string-TheSteveIsGreat/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mopar/Documents/CS2420/Module 1/dynamic-string-TheSteveIsGreat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
