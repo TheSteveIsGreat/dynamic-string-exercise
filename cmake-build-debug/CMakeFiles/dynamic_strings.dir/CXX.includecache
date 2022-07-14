@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/DynamicString.h
+iostream
+-
+
+../inc/Url.h
+iostream
+-
+DynamicString.h
+../inc/DynamicString.h
+
+C:/Users/mopar/Documents/CS2420/Module 1/dynamic-string-TheSteveIsGreat/src/URLTesting.cpp
+Url.h
+C:/Users/mopar/Documents/CS2420/Module 1/dynamic-string-TheSteveIsGreat/src/Url.h
+DynamicString.h
+C:/Users/mopar/Documents/CS2420/Module 1/dynamic-string-TheSteveIsGreat/src/DynamicString.h
+iostream
+-
+stdexcept
+-
+cstring
+-
+string
+-
+
